@@ -1,0 +1,69 @@
+{
+    "Functions" : [
+        {
+            "Id" : 0,
+            "Name" : "PredictFraud",
+            "Type" : 2,
+            "ReturnType": 1,
+            "Params" : {
+                    "str01" : 1,
+                    "str02" : 1,
+                    "str03" : 1,
+                    "str04" : 1,
+                    "str05" : 1,
+                    "str06" : 1,
+                    "str07" : 1,
+                    "str08" : 1,
+                    "str09" : 1,
+                    "str10" : 1,
+                    "str11" : 1,
+                    "str12" : 1,
+                    "str13" : 1,
+                    "str14" : 1,
+                    "str15" : 1,
+                    "str16" : 1,
+                    "str17" : 1,
+                    "str18" : 1,
+                    "str19" : 1,
+                    "str20" : 1,
+                    "str21" : 1,
+                    "str22" : 1,
+                    "str23" : 1,
+                    "str24" : 1,
+                    "str25" : 1,
+                    "str26" : 1,
+                    "str27" : 1,
+                    "str28" : 1,
+                    "str29" : 1,
+                    "str30" : 1
+                }
+        },
+        {
+            "Id" : 1,
+            "Name" : "MyFuncAggr",
+            "Type" : 1,
+            "ReturnType": 0,
+            "Params" : {
+                    "str1" : 0
+                }
+        },
+        {
+            "Id" : 2,
+            "Name" : "Cache",
+            "Type" : 2,
+            "ReturnType": 0,
+            "Params" : {
+                    "str1" : 0
+            }
+        },
+        {
+            "Id" : 3,
+            "Name" : "NoCache",
+            "Type" : 2,
+            "ReturnType": 0,
+            "Params" : {
+                    "str1" : 0
+            }
+        }
+    ]
+}
